@@ -4,5 +4,4 @@ Prizm is not a fork, or edit of either of these themes. Prizm was made from scra
 
 ![prizmpalette](https://github.com/Mizosu97/prizm/blob/main/prizm_palette.png)
 
-Prizm still needs proper documentation. Don't worry, I'm working on that!
-
+[Refsheet](https://github.com/Mizosu97/prizm/blob/main/refsheet.md)
